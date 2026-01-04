@@ -172,16 +172,6 @@ private fun parseColor(text: String, textPositions: List<TextPosition>) {
     }
 }
 
-data class TransitLine(
-    val line: String,
-    val backgroundColor: String,
-    val textColor: String,
-    val borderColor: String = "",
-    var agencyId: String? = null,
-    var agencyName: String? = null,
-    val source: String
-)
-
 class MVVPDFTextStripper: PDFTextStripperSuper() {
     override fun writeString(text: String, textPositions: MutableList<TextPosition>) {
         if (newLine && text.any { it.isDigit() }) {
