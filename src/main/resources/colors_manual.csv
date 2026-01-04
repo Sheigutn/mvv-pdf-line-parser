@@ -1,0 +1,156 @@
+"route_short_name","background_color","text_color","border_color"
+# Unterschleißheim
+215,#ff0065,#ffffff,
+218,#4472c4,#ffffff,
+# Oberhaching
+227,#005366,#ffffff,
+# Unterföhring
+232,#005366,#ffffff,
+# Ismaning
+236,#005366,#ffffff,
+# Planegg Gräfelfing
+258,#005366,#ffffff,
+# Garching
+290,#005366,#ffffff,
+293,#005366,#ffffff,
+# Wolfratshausen
+301,#005366,#ffffff,
+302,#005366,#ffffff,
+# Geretsried
+310,#005366,#ffffff,
+# Bad Tölz
+311,#005366,#ffffff,
+312,#005366,#ffffff,
+# Garmisch-Partenkirchen, Farchant
+321,#004c93,#ffffff,
+322,#e30113,#ffffff,
+323,#11bae7,#ffffff,
+324,#00803d,#ffffff,
+325,#ec6724,#ffffff,
+# Kolbermoor
+331,#9587bf,#ffffff,
+332,#91c2ea,#ffffff,
+333,#fccb84,#ffffff,
+334,#fccb84,#ffffff,
+# MoorExpress
+341,#005366,#ffffff,
+# Rosenheim
+401,#1d4797,#ffffff,
+402,#e5077e,#ffffff,
+403,#1b9dd9,#ffffff,
+404,#dddc05,#ffffff,
+405,#2aaa52,#ffffff,
+406,#e41d20,#ffffff,
+407,#a81a17,#ffffff,
+408,#ffffff,#5db132,#5db132
+409,#5ab032,#ffffff,
+410,#941d81,#ffffff,
+411,#f4981b,#ffffff,
+412,#f4981b,#ffffff,
+413,#1b9dd9,#ffffff,
+420,#941d81,#ffffff,
+421,#f4981b,#ffffff,
+422,#f4981b,#ffffff,
+423,#1b9dd9,#ffffff,
+424,#dddc05,#ffffff,
+426,#e41d20,#ffffff,
+427,##a81a17,#ffffff,
+429,#5ab032,#ffffff,
+# Wasserburg
+431,#005366,#ffffff,
+# Vaterstetten
+451,#fbc707,#ffffff,
+# Poing
+462,#e67e31,#ffffff,
+464,#d94130,#ffffff,
+468,#993d83,#ffffff,
+# Gars / Freimehring
+477,#005366,#ffffff,
+479,#005366,#ffffff,
+# Prien
+481,#005366,#ffffff,
+# Erding
+522,#2171b8,#ffffff,
+523,#e30113,#ffffff,
+524,#f39200,#ffffff,
+525,#38a9e1,#ffffff,
+526,#961b81,#ffffff,
+527,#00983b,#ffffff,
+528,#94c11d,#ffffff,
+# Vilsbiburg
+541F,#005366,#ffffff,
+541H,#005366,#ffffff,
+541S,#005366,#ffffff,
+# Mühldorf, Waldkraiburg/Kraiburg
+570,#aa0c77,#ffffff,
+571,#c99e66,#ffffff,
+# Rottenburg
+590,#005366,#ffffff,
+# Hallbergmoos
+698,#005366,#ffffff,
+# Karlsfeld
+701,#005366,#ffffff,
+711,#005366,#ffffff,
+# Schöngeising
+803,#005366,#ffffff,
+# Mammendorf
+829,#005366,#ffffff,
+# Eichenau - Olching, Cronenbergstraße
+833,#005366,#ffffff,
+# Althegnenberg - Tegernbach - Mittelstetten - Mammendorf - Fürstenfeldbruck
+837,#005366,#ffffff,
+# Fürstenfeldbruck
+840,#005366,#ffffff,
+845,#005366,#ffffff,
+# Puchheim
+854,#005366,#ffffff,
+855,#005366,#ffffff,
+# Germering
+851,#d52f18,#ffffff,
+857,#327bbf,#ffffff,
+858,#76af52,#ffffff,
+859,#006383,#ffffff,
+# Eichenau
+861,#005366,#ffffff,
+# Landsberg, Kaufering
+881,#3f2684,#ffffff,
+882,#359a67,#ffffff,
+883,#e52417,#ffffff,
+885,#ec630d,#ffffff,
+892,#3174b4,#ffffff,
+# Dießen
+893,#005366,#ffffff,
+899,#bb617e,#ffffff,
+# Starnberg
+901,#9b195b,#ffffff,
+902,#38a9e1,#ffffff,
+903,#d94c8d,#ffffff,
+905,#3c763f,#ffffff,
+# Weilheim
+911,#f7a700,#ffffff,
+912,#e30113,#ffffff,
+913,#40a535,#ffffff,
+914,#179dd9,#ffffff,
+# Penzberg
+940,#2171b8,#ffffff,
+941,#2171b8,#ffffff,
+942,#e30113,#ffffff,
+944,#ffffff,#005366,#005366
+# Krailling
+967,#005366,#ffffff,
+# Icking - Walchstadt - Berg
+973,#007f51,#ffffff,
+# Tutzing
+977,#5da7a6,#ffffff,
+978,#4e8888,#ffffff,
+979,#8ecfd0,#ffffff,
+# Schongau
+980,#e30113,#ffffff,
+# 985,#179dd9,#ffffff,
+986,#009559,#ffffff,
+# Dingolfing - Niederviehbach - Niederaichbach
+2019,#005366,#ffffff,
+# Bürgerbus Amerang
+9480,#005366,#ffffff,
+# NachtBus Großhesseloher Brücke - Grünwald
+N272,#005366,#ffffff,
